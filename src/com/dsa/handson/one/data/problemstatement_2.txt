@@ -1,0 +1,10 @@
+By the time we calculate the answer,
+Group already realized that the person carrying the most Calories of food
+might eventually run out of snacks.
+
+To avoid this unacceptable situation,
+the Group would instead like to know the total Calories carried by
+the top three peoples carrying the most Calories.
+That way, even if one of those persons runs out of snacks, they still have two backups.
+
+Find how many Calories top three people carrying in total?

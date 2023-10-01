@@ -1,0 +1,31 @@
+A group of people goes for an expedition by boat.
+As your boats approach land, the people begin taking inventory (food) from supplies.
+
+They write down the number of Calories contained by the various meals, snacks, rations, etc.
+that they've brought with them, one item per line.
+Each person separates their own inventory from the previous person's inventory (if any) by a blank line.
+
+For example, suppose the persons finish writing their items' Calories and end up with the following list:
+
+1000
+2000
+3000
+
+4000
+
+5000
+6000
+
+7000
+8000
+9000
+
+10000
+
+This list represents the Calories of the food carried by five person:
+
+In case any person gets hungry and need extra snacks,
+they need to know which person to ask:
+they'd like to know how many Calories are being carried by the person carrying the most Calories.
+
+How many total Calories is the person with max calories carrying?
