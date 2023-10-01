@@ -1,0 +1,29 @@
+The Mysterious Library Catalog
+
+In the heart of the quiet town of Booksville, there stood a magnificent library known as the Book Haven.
+The library contained an extensive collection of books, each bearing a unique International Standard Book Number (ISBN)
+that identified it uniquely. The librarian, Mr. Jenkins, was known for his meticulous cataloging skills.
+
+One sunny morning, Mr. Jenkins faced a puzzling challenge. He had received a trove of new books,
+and it was his responsibility to catalog them in a way that allowed quick and sorted access based on ISBN.
+The challenge was that the town council insisted on keeping the books sorted in ascending order of their ISBN
+at all times.
+
+Here is the problem Mr. Jenkins faced:
+
+**Problem:** Design a library catalog system for Mr. Jenkins to store books based on their ISBN.
+The system should support the following operations:
+
+1. `addBook(isbn, title)`: Adds a new book to the catalog with the given ISBN and title.
+
+2. `deleteBook(isbn)`: Deletes a book from the catalog based on its ISBN.
+
+3. `findBookByISBN(isbn)`: Retrieves the title of a book based on its ISBN.
+
+4. `displayCatalog()`: Displays the entire library catalog, sorted by ISBN, to assist Mr. Jenkins in keeping the library
+ in perfect order.
+
+As Mr. Jenkins, you need to implement this library catalog system. Your solution should ensure that the books are always
+sorted by their ISBN, meeting the town council's requirements for the Book Haven.
+
+Help Mr. Jenkins create the ideal library catalog system to keep the books of Booksville neatly organized!

@@ -1,0 +1,19 @@
+Once upon a time, in the quaint village of Algorithmia, there lived a clever mathematician named Alice.
+Alice had an unusual way of solving mathematical problems that puzzled her fellow villagers.
+She had mastered the art of puzzle solving using mathematics
+
+One sunny morning, Alice received a mysterious letter from the village elder.
+The letter contained a series of numbers and operators, like a secret code.
+The elder, known for his love of riddles, had sent this as a challenge to Alice.
+
+The letter read:
+
+```
+5 3 2 * 8 2 / - +
+```
+
+Alice knew that this was no ordinary puzzle. To solve it, she had to evaluate the expression to find the hidden message.
+The numbers and operators seemed like an enigma, but Alice was up for the challenge.
+She decided to use her knowledge to decipher the message.
+
+Can you help out Alice in deciphering the puzzle
